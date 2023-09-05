@@ -4,3 +4,4 @@ _pycache_
 Client Secret.txt
 ngrok.yml
 webhook.py
+__pycache__
