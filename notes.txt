@@ -1,0 +1,26 @@
+What are you making
+- a twitch bot that uses channel point to change
+subtiles on stream and in chat to different languges
+
+What are the phases 5
+- Setup twitch api
+- webhook / websocket?
+- language apis
+- transscribe apis
+- code to make it work
+
+Hurdles
+- Mini said this shit would be hard for a team of 3 (11.5 / 10)
+- deep language models arent free
+- deep language models are shit and have you tried talking to siri
+
+Research what do we need
+- Free but good languange models
+- voice to text model for the free.99
+- txt to another language model 
+
+Whats free free
+- google api txt is free ( look it up and test out better txt to txt)
+- voice to txt = https://github.com/innovatorved/whisper.ap
+
+
